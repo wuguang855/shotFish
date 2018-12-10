@@ -1,0 +1,501 @@
+{
+    "frames": {
+        "fish1_0.png": {
+            "frame": {
+                "h": 89,
+                "idx": 0,
+                "w": 132,
+                "x": 889,
+                "y": 220
+            },
+            "sourceSize": {
+                "h": 93,
+                "w": 132
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "fish1_1.png": {
+            "frame": {
+                "h": 87,
+                "idx": 0,
+                "w": 118,
+                "x": 897,
+                "y": 442
+            },
+            "sourceSize": {
+                "h": 93,
+                "w": 132
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 1
+            }
+        },
+        "fish1_2.png": {
+            "frame": {
+                "h": 87,
+                "idx": 0,
+                "w": 129,
+                "x": 875,
+                "y": 563
+            },
+            "sourceSize": {
+                "h": 93,
+                "w": 132
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 2
+            }
+        },
+        "fish1_3.png": {
+            "frame": {
+                "h": 89,
+                "idx": 0,
+                "w": 120,
+                "x": 902,
+                "y": 110
+            },
+            "sourceSize": {
+                "h": 93,
+                "w": 132
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 1
+            }
+        },
+        "fish2_0.png": {
+            "frame": {
+                "h": 120,
+                "idx": 0,
+                "w": 150,
+                "x": 746,
+                "y": 442
+            },
+            "sourceSize": {
+                "h": 120,
+                "w": 150
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "fish2_1.png": {
+            "frame": {
+                "h": 111,
+                "idx": 0,
+                "w": 149,
+                "x": 873,
+                "y": 330
+            },
+            "sourceSize": {
+                "h": 120,
+                "w": 150
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 9
+            }
+        },
+        "fish2_2.png": {
+            "frame": {
+                "h": 117,
+                "idx": 0,
+                "w": 150,
+                "x": 574,
+                "y": 567
+            },
+            "sourceSize": {
+                "h": 120,
+                "w": 150
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 3
+            }
+        },
+        "fish2_3.png": {
+            "frame": {
+                "h": 111,
+                "idx": 0,
+                "w": 149,
+                "x": 725,
+                "y": 567
+            },
+            "sourceSize": {
+                "h": 120,
+                "w": 150
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 9
+            }
+        },
+        "fish3_0.png": {
+            "frame": {
+                "h": 109,
+                "idx": 0,
+                "w": 183,
+                "x": 718,
+                "y": 110
+            },
+            "sourceSize": {
+                "h": 109,
+                "w": 183
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "fish3_1.png": {
+            "frame": {
+                "h": 109,
+                "idx": 0,
+                "w": 172,
+                "x": 753,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 109,
+                "w": 183
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "fish3_2.png": {
+            "frame": {
+                "h": 109,
+                "idx": 0,
+                "w": 179,
+                "x": 573,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 109,
+                "w": 183
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "fish3_3.png": {
+            "frame": {
+                "h": 109,
+                "idx": 0,
+                "w": 170,
+                "x": 718,
+                "y": 220
+            },
+            "sourceSize": {
+                "h": 109,
+                "w": 183
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "fish4_0.png": {
+            "frame": {
+                "h": 168,
+                "idx": 0,
+                "w": 155,
+                "x": 418,
+                "y": 528
+            },
+            "sourceSize": {
+                "h": 193,
+                "w": 159
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "fish4_1.png": {
+            "frame": {
+                "h": 171,
+                "idx": 0,
+                "w": 153,
+                "x": 264,
+                "y": 528
+            },
+            "sourceSize": {
+                "h": 193,
+                "w": 159
+            },
+            "spriteSourceSize": {
+                "x": 2,
+                "y": 0
+            }
+        },
+        "fish4_2.png": {
+            "frame": {
+                "h": 175,
+                "idx": 0,
+                "w": 150,
+                "x": 244,
+                "y": 174
+            },
+            "sourceSize": {
+                "h": 193,
+                "w": 159
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 3
+            }
+        },
+        "fish4_3.png": {
+            "frame": {
+                "h": 185,
+                "idx": 0,
+                "w": 145,
+                "x": 405,
+                "y": 342
+            },
+            "sourceSize": {
+                "h": 193,
+                "w": 159
+            },
+            "spriteSourceSize": {
+                "x": 7,
+                "y": 8
+            }
+        },
+        "fish4_4.png": {
+            "frame": {
+                "h": 173,
+                "idx": 0,
+                "w": 151,
+                "x": 395,
+                "y": 168
+            },
+            "sourceSize": {
+                "h": 193,
+                "w": 159
+            },
+            "spriteSourceSize": {
+                "x": 7,
+                "y": 7
+            }
+        },
+        "fish4_5.png": {
+            "frame": {
+                "h": 170,
+                "idx": 0,
+                "w": 153,
+                "x": 251,
+                "y": 350
+            },
+            "sourceSize": {
+                "h": 193,
+                "w": 159
+            },
+            "spriteSourceSize": {
+                "x": 2,
+                "y": 2
+            }
+        },
+        "fish4_6.png": {
+            "frame": {
+                "h": 167,
+                "idx": 0,
+                "w": 157,
+                "x": 251,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 193,
+                "w": 159
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 2
+            }
+        },
+        "fish5_0.png": {
+            "frame": {
+                "h": 108,
+                "idx": 0,
+                "w": 167,
+                "x": 705,
+                "y": 330
+            },
+            "sourceSize": {
+                "h": 108,
+                "w": 171
+            },
+            "spriteSourceSize": {
+                "x": 4,
+                "y": 0
+            }
+        },
+        "fish5_1.png": {
+            "frame": {
+                "h": 103,
+                "idx": 0,
+                "w": 153,
+                "x": 551,
+                "y": 257
+            },
+            "sourceSize": {
+                "h": 108,
+                "w": 171
+            },
+            "spriteSourceSize": {
+                "x": 2,
+                "y": 3
+            }
+        },
+        "fish5_2.png": {
+            "frame": {
+                "h": 101,
+                "idx": 0,
+                "w": 171,
+                "x": 574,
+                "y": 465
+            },
+            "sourceSize": {
+                "h": 108,
+                "w": 171
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 3
+            }
+        },
+        "fish5_3.png": {
+            "frame": {
+                "h": 103,
+                "idx": 0,
+                "w": 153,
+                "x": 551,
+                "y": 361
+            },
+            "sourceSize": {
+                "h": 108,
+                "w": 171
+            },
+            "spriteSourceSize": {
+                "x": 2,
+                "y": 3
+            }
+        },
+        "fish6_0.png": {
+            "frame": {
+                "h": 126,
+                "idx": 0,
+                "w": 170,
+                "x": 547,
+                "y": 130
+            },
+            "sourceSize": {
+                "h": 129,
+                "w": 171
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 1
+            }
+        },
+        "fish6_1.png": {
+            "frame": {
+                "h": 129,
+                "idx": 0,
+                "w": 163,
+                "x": 409,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 129,
+                "w": 171
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 0
+            }
+        },
+        "fish7_0.png": {
+            "frame": {
+                "h": 168,
+                "idx": 0,
+                "w": 263,
+                "x": 0,
+                "y": 529
+            },
+            "sourceSize": {
+                "h": 180,
+                "w": 266
+            },
+            "spriteSourceSize": {
+                "x": 3,
+                "y": 12
+            }
+        },
+        "fish7_1.png": {
+            "frame": {
+                "h": 174,
+                "idx": 0,
+                "w": 250,
+                "x": 0,
+                "y": 354
+            },
+            "sourceSize": {
+                "h": 180,
+                "w": 266
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 6
+            }
+        },
+        "fish7_2.png": {
+            "frame": {
+                "h": 179,
+                "idx": 0,
+                "w": 243,
+                "x": 0,
+                "y": 174
+            },
+            "sourceSize": {
+                "h": 180,
+                "w": 266
+            },
+            "spriteSourceSize": {
+                "x": 2,
+                "y": 0
+            }
+        },
+        "fish7_3.png": {
+            "frame": {
+                "h": 173,
+                "idx": 0,
+                "w": 250,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 180,
+                "w": 266
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 6
+            }
+        }
+    },
+    "meta": {
+        "image": "fish.png",
+        "prefix": "fish/"
+    }
+}

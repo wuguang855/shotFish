@@ -1,0 +1,178 @@
+{
+    "frames": {
+        "1-21.png": {
+            "frame": {
+                "h": 101,
+                "idx": 0,
+                "w": 114,
+                "x": 215,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 122,
+                "w": 120
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 10
+            }
+        },
+        "1-22.png": {
+            "frame": {
+                "h": 101,
+                "idx": 0,
+                "w": 98,
+                "x": 215,
+                "y": 102
+            },
+            "sourceSize": {
+                "h": 122,
+                "w": 120
+            },
+            "spriteSourceSize": {
+                "x": 5,
+                "y": 10
+            }
+        },
+        "ball.png": {
+            "frame": {
+                "h": 26,
+                "idx": 0,
+                "w": 26,
+                "x": 361,
+                "y": 428
+            },
+            "sourceSize": {
+                "h": 40,
+                "w": 40
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 7
+            }
+        },
+        "btn_open.png": {
+            "frame": {
+                "h": 80,
+                "idx": 0,
+                "w": 360,
+                "x": 0,
+                "y": 219
+            },
+            "sourceSize": {
+                "h": 102,
+                "w": 400
+            },
+            "spriteSourceSize": {
+                "x": 11,
+                "y": 11
+            }
+        },
+        "btn_top10.png": {
+            "frame": {
+                "h": 80,
+                "idx": 0,
+                "w": 360,
+                "x": 0,
+                "y": 300
+            },
+            "sourceSize": {
+                "h": 102,
+                "w": 400
+            },
+            "spriteSourceSize": {
+                "x": 11,
+                "y": 11
+            }
+        },
+        "ico_set.png": {
+            "frame": {
+                "h": 80,
+                "idx": 0,
+                "w": 360,
+                "x": 0,
+                "y": 381
+            },
+            "sourceSize": {
+                "h": 102,
+                "w": 400
+            },
+            "spriteSourceSize": {
+                "x": 11,
+                "y": 11
+            }
+        },
+        "ranking_1.png": {
+            "frame": {
+                "h": 107,
+                "idx": 0,
+                "w": 89,
+                "x": 314,
+                "y": 102
+            },
+            "sourceSize": {
+                "h": 108,
+                "w": 89
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "ranking_2.png": {
+            "frame": {
+                "h": 108,
+                "idx": 0,
+                "w": 89,
+                "x": 361,
+                "y": 210
+            },
+            "sourceSize": {
+                "h": 108,
+                "w": 89
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "ranking_3.png": {
+            "frame": {
+                "h": 108,
+                "idx": 0,
+                "w": 89,
+                "x": 361,
+                "y": 319
+            },
+            "sourceSize": {
+                "h": 108,
+                "w": 89
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "shot.png": {
+            "frame": {
+                "h": 218,
+                "idx": 0,
+                "w": 214,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 218,
+                "w": 214
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "icon.png",
+        "prefix": "icon/"
+    }
+}

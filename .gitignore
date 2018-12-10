@@ -1,0 +1,7 @@
+#laya
+.laya/
+release/
+bin/js/
+
+#隐藏文件
+.DS_Store

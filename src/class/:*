@@ -1,0 +1,54 @@
+/*
+* 概率表
+*/
+
+
+
+
+function getFishType(randomNum,score){
+	function getScoreType(score){
+		var scoreType =0 ;
+		var scoreList = [300,1000,3000];
+		for(var i in scoreList){
+				scoreType += (score>scoreList[i]);
+		}
+	}
+	var fishType = [6,4,7,1,5,3,2];
+
+	var scoreM = [
+		[.5,1, 5 ,18.5 ,20 ,25 ,30],
+		[5 ,10 ,30 ,18, 17 ,10, 10 ],
+		[10 ,30 ,10 ,15, 15 ,10 ,10],
+		[20 ,20, 20, 15, 15, 5, 5 ]
+	];
+	//累计概率表
+	var  scoreM_ = [
+		[.5,1, 5 ,18.5 ,20 ,25 ,30],
+		[5 ,10 ,30 ,18, 17 ,10, 10 ],
+		[10 ,30 ,10 ,15, 15 ,10 ,10],
+		[20 ,20, 20, 15, 15, 5, 5 ]
+	];
+
+	var scoreType = getScoreType(score);
+	var gailvlist = scoreM[scoreType];
+
+
+
+
+
+}
+
+
+
+type =  6  4  7  1  5  3  2
+
+
+
+300 1000 3000 3000+
+
+
+var scoreType =  (score>300) + (score>1000) + 
+
+var score = 299
+
+

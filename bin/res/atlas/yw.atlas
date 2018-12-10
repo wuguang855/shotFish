@@ -1,0 +1,93 @@
+{
+    "frames": {
+        "yuwang1.png": {
+            "frame": {
+                "h": 147,
+                "idx": 0,
+                "w": 147,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 420,
+                "w": 420
+            },
+            "spriteSourceSize": {
+                "x": 136,
+                "y": 136
+            }
+        },
+        "yuwang2.png": {
+            "frame": {
+                "h": 221,
+                "idx": 0,
+                "w": 221,
+                "x": 148,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 420,
+                "w": 420
+            },
+            "spriteSourceSize": {
+                "x": 99,
+                "y": 99
+            }
+        },
+        "yuwang3.png": {
+            "frame": {
+                "h": 295,
+                "idx": 0,
+                "w": 295,
+                "x": 370,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 420,
+                "w": 420
+            },
+            "spriteSourceSize": {
+                "x": 62,
+                "y": 62
+            }
+        },
+        "yuwang4.png": {
+            "frame": {
+                "h": 361,
+                "idx": 0,
+                "w": 359,
+                "x": 0,
+                "y": 222
+            },
+            "sourceSize": {
+                "h": 420,
+                "w": 420
+            },
+            "spriteSourceSize": {
+                "x": 30,
+                "y": 29
+            }
+        },
+        "yuwang5.png": {
+            "frame": {
+                "h": 420,
+                "idx": 0,
+                "w": 420,
+                "x": 360,
+                "y": 296
+            },
+            "sourceSize": {
+                "h": 420,
+                "w": 420
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "yw.png",
+        "prefix": "yw/"
+    }
+}
